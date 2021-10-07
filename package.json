@@ -1,0 +1,18 @@
+{
+  "name": "BarcodeScanner,js",
+  "version": "1.0.0",
+  "description": "A simple JS to listen for barcode scans",
+  "main": "BarcodeScanner.js",
+  "repository": {
+    "url": "https://github.com/itexpertsbv/BarcodeScanner.js",
+    "type": "git"
+  },
+  "author": "Christian Vermeulen <chris.vermeulen@itexperts.be> (https://github.com/christianvermeulen)",
+  "license": "MIT",
+  "keywords": [
+      "barcode",
+      "scanner",
+      "barcodescanner",
+      "listener"
+    ],
+}
